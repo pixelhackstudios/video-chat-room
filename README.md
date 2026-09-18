@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-# One the above steps are complete, run the server with the following command moving forward.
+# once the above steps are complete, run the server with the following command moving forward.
 python3 -m venv venv
 source venv/bin/activate
 python server.py
